@@ -1,0 +1,22 @@
+.slidecontainer {
+  width: 100%;
+}
+
+.headerClass {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+.footerClass {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.bodyStyle {
+  text-align: center;
+}
